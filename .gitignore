@@ -1,0 +1,8 @@
+# IDE and cache files
+.idea/
+__pycache__/
+
+# PyInstaller build artifacts
+/build/
+/dist/
+*.spec
